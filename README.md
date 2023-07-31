@@ -1,13 +1,13 @@
 # How to build NVENC
 
 ## Table of contents
-* [Download Video Codec SDK](#Download-Video-Codec-SDK)
-* [Download FFmpeg](#Download-FFmpeg)
+* [Download Video Codec SDK](#download-video-codec-sdk)
+* [Download FFmpeg](#download-ffmpeg)
 * [Download GLEW](#Download-GLEW)
 * [Download freeglut](#Download-freeglut)
 * [Run cmake](#Run-cmake)
 * [Download Test Video](#Download-Test-Video)
-* [Reference](#Reference)
+* [Reference](#reference)
   
 ## Download Video Codec SDK
 - https://developer.nvidia.com/video-codec-sdk
